@@ -18,7 +18,7 @@ console.log(`8<=8, hasilnya: ${8 <= 8}`);
 // Persamaan
 // KETERANGAN: bisa membaca data berupa string, sehingga untuk input pada html dengan tipe text bisa terbaca. Tetapi tidak akurat, rawan salah, dan membingungkan.
 console.log(`10=="10", hasilnya: ${10 == "10"}`);
-console.log(`10!="10", hasilnya: ${10 != "10"}`);
+console.log(`10!="10", hasilnya: ${10 != "10"}`);     // BACA: !=  --> TIDAK SAMA
     // CONTOH MASALAH:
 console.log(`10!="9", hasilnya: ${10 != "9"}`); // malah terbaca true X
     // Lebih akurat pakai strick
