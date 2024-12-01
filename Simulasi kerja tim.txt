@@ -1,1 +1,2 @@
 Ini merupakan latihan simulasi ketika kita bekerja secara team. Dalam satu repository bisa dikerjakan 2 orang lebih.
+Kita baru saja menambahkan 2 file (html, JS) dengan cara meng-upload.
